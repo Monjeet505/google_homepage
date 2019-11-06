@@ -1,2 +1,2 @@
 THis is my first project on HTML and CSS 
-The project is off making a clone website of google.
+The project is about making a clone of google homepage
